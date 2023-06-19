@@ -12,7 +12,6 @@ body {
 
 section, footer {
   padding: 224px 0;
-  /*padding 54 p/ cima e p/ baixo e 0 p/ dir e esq*/
   background-color: rgba(234, 225, 225, 0.071);
 }
 
@@ -86,7 +85,7 @@ header {
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
-  /*talvez precise tirar o bg attachment*/
+
 }
 
 nav {
